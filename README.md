@@ -4,7 +4,7 @@ This project was to build the API routes and models for Sequelize to create the 
 
 Much of the code in this project was supplied and can be seen here: [starter code](https://github.com/coding-boot-camp/fantastic-umbrella)
 
-Video demonstration will be added in the near future.
+Video demonstration can be found here: [E-Commerce Back End Demo](https://www.youtube.com/watch?v=zhKH6oT9lG0)
 
 
 ## User Story
@@ -149,4 +149,22 @@ The database tables created using Sequelize models:
 
 ## Product
 
-The video demonstration of this application will be added in the near future.
+Video demonstration can be found here: [E-Commerce Back End Demo](https://www.youtube.com/watch?v=zhKH6oT9lG0)
+
+Below are several gifs demonstrating the application as well.
+
+### DB Schema, Seeds and Starting Server Demo
+
+![Demo gif for initial setup of the project](./assets/init-demo.gif)
+
+### Categories Demo
+
+![Demo gif for the category routes](./assets/categories-demo.gif)
+
+### Tags Demo
+
+![Demo gif for the tag routes](./assets/tags-demo.gif)
+
+### Products Demo
+
+![Demo gif for the product routes](./assets/products-demo.gif)
